@@ -103,12 +103,13 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 ---
 
 # 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hiraqamar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hiraqamar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraqamar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraqamar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -119,6 +120,14 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 </p>
 
 ---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hiraqamar&theme=tokyo-night"/>
+
+</p>
 
 # 📈 GitHub Activity Graph
 
