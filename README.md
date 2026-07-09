@@ -17,7 +17,6 @@ Frontend Developer | UI Designer | Firebase Developer | Netlify
 </p>
 
 <p align="center">
-
 <a href="mailto:hiraqamar410@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -25,7 +24,6 @@ Frontend Developer | UI Designer | Firebase Developer | Netlify
 <a href="https://github.com/Hiraqamar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
@@ -34,33 +32,19 @@ Frontend Developer | UI Designer | Firebase Developer | Netlify
 
 🚀 Passionate **Frontend Developer** from **Pakistan 🇵🇰**
 
-💻 I build **modern, responsive, and scalable web applications** with clean UI and smooth user experience.
+💻 I build **modern, responsive and scalable web applications** with clean UI and excellent user experience.
 
-✨ I enjoy turning creative ideas into beautiful and functional websites.
+✨ I enjoy transforming creative ideas into beautiful and functional websites.
 
-## 🚀 What I Do
+### 🚀 What I Do
 
-- 💻 Build Mobile Responsive Websites
-- 🎨 Design Modern & Attractive UI
-- ⚡ Create Interactive Web Applications
-- 🔥 Deploy Projects on Netlify
-- 📱 Focus on Performance & User Experience
+- 💻 Build Responsive Websites
+- 🎨 Design Modern UI/UX
+- ⚡ Develop Interactive Web Applications
+- 🔥 Deploy Websites on Netlify
+- 📱 Optimize Performance & User Experience
 
-## 🛠 Skills
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- Bootstrap
-- Tailwind CSS
-- Firebase
-- Node.js
-- Git & GitHub
-- Netlify
-- Responsive Web Design
-- UI Designing
-
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 - React.js
 - Next.js
@@ -68,12 +52,9 @@ Frontend Developer | UI Designer | Firebase Developer | Netlify
 - Redux
 - AI Integration
 
-🎯 **My Goal**
+🎯 **Goal:** Become a Professional Full Stack Developer and launch my own **Software House**.
 
-Become a Professional Full Stack Developer, build impactful digital products, and launch my own **Software House**.
-
-📫 **Reach me at:**  
-**hiraqamar410@gmail.com**
+📫 **Email:** **hiraqamar410@gmail.com**
 
 ---
 
@@ -91,33 +72,34 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 
 | Project | Description |
 |---------|-------------|
-| 🌐 Personal Portfolio | Responsive portfolio showcasing my skills and projects |
-| 📝 Blog Website | Animated blog website with modern UI |
-| 🍔 Restaurant Landing Page | Beautiful responsive restaurant website |
-| 🛋️ Furniture Website | Clean and elegant furniture website |
-| 🚀 NASA Website Clone | Modern frontend clone project |
-| 🌦️ Weather App | Weather application using API |
-| 📰 News Website | Live news website using API |
-| 🎮 Tic Tac Toe Game | JavaScript game with interactive UI |
+| 🌐 Personal Portfolio | Modern responsive portfolio website |
+| 📝 Blog Website | Blog website with animations & hover effects |
+| 🍔 Restaurant Landing Page | Responsive restaurant website |
+| 🛋️ Furniture Website | Modern furniture UI |
+| 🚀 NASA Clone | Responsive frontend clone |
+| 🌦️ Weather App | Weather API project |
+| 📰 News Website | Live News API project |
+| 🎮 Tic Tac Toe | JavaScript game |
 
 ---
-
 
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hiraqamar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiraqamar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Hiraqamar&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
 
 # 📈 GitHub Activity Graph
 
@@ -127,21 +109,13 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 
 </p>
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiraqamar&theme=tokyo-night"/>
-
-</p>
-
 ---
 
-# 💻 Tools & Technologies
+# 💻 Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,firebase,nodejs,react,nextjs,typescript,redux,git,github,vscode,figma,netlify"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netlify,firebase,nodejs"/>
 
 </p>
 
@@ -165,11 +139,11 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 
 # 🌟 Fun Facts
 
-- 💜 Love creating beautiful UI Designs
-- 🚀 Always exploring new web technologies
+- 💜 Passionate UI Designer
+- 🚀 Frontend Development Lover
 - 📱 Responsive Design Enthusiast
-- 🔥 Clean Code Lover
-- 🌍 Passionate about Frontend Development
+- 🔥 Clean Code Writer
+- 🌍 Always Learning New Technologies
 
 ---
 
@@ -177,8 +151,8 @@ Become a Professional Full Stack Developer, build impactful digital products, an
 
 ## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving ⭐ to my repositories.
+If you like my work, don't forget to ⭐ my repositories.
 
-**Happy Coding! 🚀💜**
+### ❤️ Happy Coding!
 
 </p>
